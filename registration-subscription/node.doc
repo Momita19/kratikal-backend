@@ -1,0 +1,12 @@
+Node js - 
+1. every browser uses its javascript engine - most popupar v8.
+2. ryan dahl - v8 engine and cpp embed --> project Node
+3. Now v8 engine extract from browser, cpp native language. --> executes javascript out of the browser.
+
+NodeJs -
+1. you can run js outside of the browser.
+2. javascript can talk to native machine because of c++
+3. You can create webservers in js language.
+
+Imp -- NodeJs is a Runtime env. for javascript.
+js
